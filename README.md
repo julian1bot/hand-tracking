@@ -13,4 +13,4 @@ Pour changer de camera vous n'avez qu'a juste aller dans code.py a la ligne **31
 
 [![video demo](image/miniature.png)]
 
-[![video demo]](https://youtu.be/y3vFMNqe-9g)
+[video demo](https://youtu.be/y3vFMNqe-9g)
