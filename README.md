@@ -11,4 +11,4 @@ Vous devrez changer de camera si au lancement il y a un ecran noir
 
 Pour changer de camera vous n'avez qu'a juste aller dans code.py a la ligne **31** ```cap = cv2.VideoCapture(0)``` changer le "0" par 1,2,3,... 
 
-[![video demo](https://img.youtube.com/vi/y3vFMNqe-9g/)](https://youtu.be/y3vFMNqe-9g)
+[![video demo](image/minuature.png)](https://youtu.be/y3vFMNqe-9g)
