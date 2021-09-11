@@ -5,11 +5,11 @@ Hey!
 
 Voici le code que j'ai fait qui vous permet de détectez votre main et de faire des actions tel que le mouvement de la souris, les cliques de la souris et autres !
 
-Vous devrez changer de camera si au lancement il y a un ecran noir 
+Vous devrez changer de camera si au lancement il y a un écran noir 
 
 ## changement de la camera
 
-Pour changer de camera vous n'avez qu'a juste aller dans code.py a la ligne **25** ```cap = cv2.VideoCapture(0)``` changer le "0" par 1,2,3,... 
+Pour changer de caméra vous n'avez qu'a juste aller dans code.py à la ligne **25** ```cap = cv2.VideoCapture(0)``` changer le "0" par 1,2,3,... 
 
 
 ![changement de camera screen](image/changementcamscreen.png)
@@ -23,8 +23,8 @@ Pour changer de camera vous n'avez qu'a juste aller dans code.py a la ligne **25
 ## Contact
  Discord:`</>#9020`
 
-## Module utilisé
-Les modules qui ont été utilisé pour faire se code sont:
+## Modules utilisés
+Les modules qui ont été utilisés pour faire se code sont:
 
  * [mediapipe]( https://google.github.io/mediapipe/getting_started/python) 0.8.3.1	0.8.7.2 
 
