@@ -30,13 +30,13 @@ Les modules qui ont été utilisé pour faire se code sont:
 opencv-python 4.5.1.48	4.5.3.56
 
 
-[mouse] (https://pypi.org/project/mouse/) 0.7.1	0.7.1
+[mouse](https://pypi.org/project/mouse/) 0.7.1	0.7.1
 
 
 [cvzone]( https://github.com/cvzone/cvzone)	1.1	1.5.1
 
 
-[autopy] ( https://www.autopy.org/) 4.0.0	4.0.0
+[autopy](https://www.autopy.org/) 4.0.0	4.0.0
 
 
-[numpy] ( https://numpy.org/) 1.21.0	1.21.2
+[numpy](https://numpy.org/) 1.21.0	1.21.2
